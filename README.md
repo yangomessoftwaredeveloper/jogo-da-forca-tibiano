@@ -19,6 +19,6 @@ Collections,
 Random.
 
 Objetivo:
-Projeto desenvolvido para praticar lógica de programação, manipulação de arquivos, estruturas de repetição, condicionais, coleções e validação de dados em Java, utilizando uma temática inspirada no jogo Tibia
+Projeto desenvolvido para praticar lógica de programação, manipulação de arquivos, estruturas de repetição, condicionais, coleções e validação de dados em Java, utilizando uma temática inspirada no jogo Tibia.
 
 <img width="800" height="600" alt="tibia-magic-wall" src="https://github.com/user-attachments/assets/2a22aa0d-a635-4b85-add2-de863306ec81" />
