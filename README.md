@@ -1,3 +1,4 @@
+## Jogo da forca tibiano
 Um projeto de algoritmo em java do clássico jogo da forca. Executado via terminal, utilizando palavras inspiradas no universo do Tibia. As palavras são carregadas a partir de um arquivo .txt, sendo escolhidas aleatoriamente a cada vez que o programa é iniciado.
 
 O projeto conta com validação completa da entrada do usuário, impedindo números, múltiplos caracteres e letras repetidas, além de exibir o progresso da palavra, controlar as tentativas restantes e informar o resultado da partida ao final.
@@ -10,7 +11,7 @@ Bloqueio de letras repetidas,
 Exibição das letras já descobertas,
 Interface totalmente via terminal.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas:
 Java,
 Scanner,
 BufferedReader,
